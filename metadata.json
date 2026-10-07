@@ -1,0 +1,8 @@
+{
+  "name": "Daily Activity Tracker",
+  "description": "Full-stack daily productivity and activity tracker with streak tracking, goal management, mood journaling, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
